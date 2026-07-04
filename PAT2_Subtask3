@@ -11,6 +11,7 @@ int main() {
     double reading, total, average;
 
     for (i = 1; i <= NUM_EXPERIMENTS; i++) {
+
         total = 0;
         cout << "\nEXPERIMENT " << i << endl;
         cout << "================\n";
